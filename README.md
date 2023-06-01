@@ -1,1 +1,1 @@
-# Konu-ma_Sentezi
+# Konuşma Sentezi
