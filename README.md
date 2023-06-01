@@ -1,0 +1,1 @@
+# Konu-ma_Sentezi
