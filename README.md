@@ -12,8 +12,7 @@ Decode ederek okumak için qr kod oluşturan python kodu yer almaktadır. Örnek
 
 Bilgisayarın webcami üzerinden bir qr kodun çekip tespit edilmesi ve "s" tuşuna basılarak png uzantılı resim olarak kaydedilmesi işlemlerini yerine getiren python kodu yer almaktadır. Webcamden çıkış yapmak için "q" tuşuna basılır.
 
-![image](https://github.com/aysegultoptas/konusmaSentezi/assets/81236984/c7fa3bb0-b3d0-4a40-ae97-93e0531d8d63)
-
+![Uploading qr.png…]()
 
 * qr_seslendirme.py :
 
@@ -23,7 +22,7 @@ QR kodu decode ederek seslendirme işlemini gerçekleştiren python kodu yer alm
 
 Webcam üzerinden okutulan qr kodun seslendirme işlemini bir arayüz üzerinden gerçekleştirmek için kullanılan python kodu yer almaktadır.
 
-![image](https://github.com/aysegultoptas/konusmaSentezi/assets/81236984/63c49781-9a30-4785-980b-79633aa8e2c2)
+![arayüz](https://github.com/havvabzkrtt/Konusma_Sentezi/assets/81237002/1114e86f-cfec-4da3-8540-6fb564c46e47)
 
 * wecbcam_arayuz_birlesimi :
 
